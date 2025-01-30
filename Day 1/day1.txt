@@ -1,0 +1,5 @@
+Introduction to js fundamentals.
+Async and Await
+Promises
+Fetch
+DOM manipulation
